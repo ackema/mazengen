@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[快乐生活](./happly.md)
+[快乐生活](./happy.md)
 
 You can use the [editor on GitHub](https://github.com/ackema/mazengen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
